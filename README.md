@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VelinIliev/03-faq-accordion-card-main](https://github.com/VelinIliev/03-faq-accordion-card-main)
+- Live Site URL: [https://veliniliev.github.io/03-faq-accordion-card-main/e](https://veliniliev.github.io/03-faq-accordion-card-main/)
 
 ## My process
 
