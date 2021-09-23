@@ -6,10 +6,10 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -21,14 +21,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
-### Screenshot
-
-![](./screenShot/ScreenShot.jpg)
-
 ### Links
 
-- Solution URL: [https://github.com/VelinIliev/03-faq-accordion-card-main](https://github.com/VelinIliev/03-faq-accordion-card-main)
-- Live Site URL: [https://veliniliev.github.io/03-faq-accordion-card-main/e](https://veliniliev.github.io/03-faq-accordion-card-main/)
+- Live Site URL: [http://drumbi.eu/03-FrontendMentor/03-faq-accordion-card-main/](http://drumbi.eu/03-FrontendMentor/03-faq-accordion-card-main/)
 
 ## My process
 
@@ -36,3 +31,7 @@ Users should be able to:
 
 - Flexbox
 - Desktop-first workflow
+
+### Screenshot
+
+![](./screenShot/ScreenShot.jpg)
